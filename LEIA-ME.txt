@@ -1,0 +1,17 @@
+AGENDA METAL DEKOR — ETAPA 1 (SEM BANCO COMPARTILHADO)
+
+ARQUIVOS PARA PUBLICAR NO GITHUB PAGES:
+- index.html
+- manifest.webmanifest
+- sw.js
+- pasta icons/ (icon-192.png e icon-512.png)
+
+GUIA:
+- guia-operador.html (abra no navegador do celular)
+
+IMPORTANTE:
+1. Esta etapa usa localStorage: os dados ficam no armazenamento local do navegador/app em cada aparelho. Não existe login nem sincronização entre funcionários.
+2. Faça backups pelo botão Backup da agenda. O JSON pode conter dados comerciais; guarde-o em local privado.
+3. GitHub Pages gratuito normalmente exige repositório público. Não publique dados reais, senhas, chaves, clientes ou registros financeiros nos arquivos do repositório.
+4. O APK ainda precisa ser gerado pelo operador após publicar o site HTTPS usando PWABuilder. Este pacote contém os arquivos-fonte prontos, não um APK compilado.
+5. Guarde a chave de assinatura e senhas em local seguro. Nunca as envie por chat nem as coloque no GitHub.
